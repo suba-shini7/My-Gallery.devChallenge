@@ -10,13 +10,10 @@
    font-size: 14px;
 }
 .btm{
-	margin-top:-440px;
+	margin-top:-450px;
 
 }
-.mainimg{
-	height: 850px;
-	width: 420px;
-}
+
 .img-fluid{
 	border-radius: 10px;
 }
@@ -25,12 +22,31 @@ span{
 
 }
 @media  (max-width: 600px)  {
-	.mainimg{
-	height: 350px;
 	
-}
 .btm{
 	margin-top:-170px;
 
 }
 	}
+	@media  (max-width: 700px)  {
+	
+.btm{
+	margin-top:-160px;
+
+}
+	}
+	@media  (max-width: 800px)  {
+	
+.btm{
+	margin-top:-190px;
+
+}
+	}
+@media  (max-width: 900px)  {
+	
+.btm{
+	margin-top:-170px;
+
+}
+	}
+
