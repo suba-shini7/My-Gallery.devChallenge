@@ -1,0 +1,36 @@
+*{
+	font-family: 'Montserrat', sans-serif;
+}
+.prf{
+	border-radius: 15px;
+}
+.endtxt{
+	font-family: 'Montserrat', sans-serif;
+   color: #BDBDBD;
+   font-size: 14px;
+}
+.btm{
+	margin-top:-440px;
+
+}
+.mainimg{
+	height: 850px;
+	width: 420px;
+}
+.img-fluid{
+	border-radius: 10px;
+}
+span{
+	color: #BDBDBD;
+
+}
+@media  (max-width: 600px)  {
+	.mainimg{
+	height: 350px;
+	
+}
+.btm{
+	margin-top:-170px;
+
+}
+	}
